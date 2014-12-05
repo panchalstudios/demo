@@ -24,9 +24,8 @@ public class ReplaceConditionalWithPoly {
 	
 	static void makeSound(String animal){
 		
-		// IF YOU GET AN ERROR
+		// IF YOU GET AN ERROR HERE
 		// I'm using Java 1.7 to use a String in a Switch
-		
 		switch(animal){
 		
 		case "Dog":
